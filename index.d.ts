@@ -34,7 +34,7 @@ declare module 'react-native-document-picker' {
       allFiles: '*';
       audio: '.3g2 .3gp .aac .adt .adts .aif .aifc .aiff .asf .au .m3u .m4a .m4b .mid .midi .mp2 .mp3 .mp4 .rmi .snd .wav .wax .wma';
       csv: '.csv';
-      images: '.jpeg .jpg .png';
+      images: '.jpeg .jpg .png .gif .bmp .JPEG .JPG .PNG .GIF .BMP';
       plainText: '.txt';
       pdf: '.pdf';
       video: '.mp4';
